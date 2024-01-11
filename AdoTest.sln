@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoTest", "AdoTest\AdoTest.csproj", "{199535F6-5270-474A-8B88-7178A99C63DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199535F6-5270-474A-8B88-7178A99C63DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199535F6-5270-474A-8B88-7178A99C63DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199535F6-5270-474A-8B88-7178A99C63DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199535F6-5270-474A-8B88-7178A99C63DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0676C3C-D508-4CCA-881C-4474C291C637}
+	EndGlobalSection
+EndGlobal
